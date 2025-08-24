@@ -1,0 +1,14 @@
+C:\Users\PC\Documents\GestionStock\GestionApp\bin\Debug\net9.0\GestionApp.exe
+C:\Users\PC\Documents\GestionStock\GestionApp\bin\Debug\net9.0\GestionApp.deps.json
+C:\Users\PC\Documents\GestionStock\GestionApp\bin\Debug\net9.0\GestionApp.runtimeconfig.json
+C:\Users\PC\Documents\GestionStock\GestionApp\bin\Debug\net9.0\GestionApp.dll
+C:\Users\PC\Documents\GestionStock\GestionApp\bin\Debug\net9.0\GestionApp.pdb
+C:\Users\PC\Documents\GestionStock\GestionApp\obj\Debug\net9.0\GestionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GestionStock\GestionApp\obj\Debug\net9.0\GestionApp.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GestionStock\GestionApp\obj\Debug\net9.0\GestionApp.AssemblyInfo.cs
+C:\Users\PC\Documents\GestionStock\GestionApp\obj\Debug\net9.0\GestionApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GestionStock\GestionApp\obj\Debug\net9.0\GestionApp.dll
+C:\Users\PC\Documents\GestionStock\GestionApp\obj\Debug\net9.0\refint\GestionApp.dll
+C:\Users\PC\Documents\GestionStock\GestionApp\obj\Debug\net9.0\GestionApp.pdb
+C:\Users\PC\Documents\GestionStock\GestionApp\obj\Debug\net9.0\GestionApp.genruntimeconfig.cache
+C:\Users\PC\Documents\GestionStock\GestionApp\obj\Debug\net9.0\ref\GestionApp.dll
